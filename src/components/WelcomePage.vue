@@ -15,12 +15,9 @@
 </template>
 
 <script>
-// @ is an alias to /src
-
-
 export default {
   name: 'WelcomePage',
-  data(){
+    data(){
     return{
       name: null,
       feedback: null
